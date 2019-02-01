@@ -1,16 +1,12 @@
-## Your Name
+## Steve Kahn
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A smart, communicative and enthusiastic student at a gloablly recognised laeding dev bootcamp with a year of profesional egineering experience. I'm looking for an exciting oppurtunity to join a software team to solve challanging problems and create beautiful digital products.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+I'm a prize winning public speaker and have regularly presented. At Renishaw I presented my work to fellow engineers at design meetings and results of projects to senior. At university I lead presentations on group design projects to peers and professors. During school as head of Army as part of the combined cadet force I regally taught a group of 20+ boys. I also won the public recitation competition.
 
 #### Another Skill
 
