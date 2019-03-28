@@ -27,21 +27,10 @@ I can adapt to knew challanges and take on the information I need to know. Durin
 
 During my time at makers I took part in process workshops where I watched others code and broke down their process in detail. Proceeding to look where it could be improved to help us become better developers. I completed the [gilded rose project](https://github.com/steve-f-kahn/gilded_rose_design_project) where I took someone elses code, understood it, refactored it again and again, breaking down where it could be improved and how. 
 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-
 ## Experience
 
 **RENISHAW** (JULY 15 to JUNE 16)    
-*Industrial Placement* 6 months work in mathematically modeling sensors using matlab. I presented the results of my work and the how I achieved them back to the team and my seniors. 6 months of mechanical design work heavily reliant on CAD. 
+**Industrial Placement** 7 months work in mathematically modeling sensors using matlab. My first major introduction into coding. I presented the results of my work and the how I achieved them back to the team and my seniors. 5 months of mechanical design work heavily reliant on CAD. 
 
 ## Education
 
@@ -58,8 +47,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Bristol (SEP 14 to JULY 18)
 
-- Certificat of HE Engineering Design
+**Enginerring Design** The UK's leading general engineering course, speciallizing in mechanical enginnering after the first year. Left to start my journey into software development but taking key skills I picked up with me and greatful for the introduction into code from mathmatical modeling and group robotics projects. Higher Education Lvl 4 certificate with Lvl 5 module credits.
 
+### Charterhouse School (SEP 09 to JUNE 14)
 
-#### Any other qualifications
+ **Pre-U (Equivalent A-Lvl)** 3 D2s (A<sup>*</sup> in Maths, Physics, Ecconomics and a D3 (A) in Chemistry
+ **GCSE** 11 GCSE's (6A<sup>*</sup>'s, 2A's , 3 B's)
 
+#### Other qualifications
+NPQL Lifegaurd lv 2, UKCC lv 1 Kayaking, REC 2 Day First-Aid 
+
+## Intrests 
+- Cyclist, completing the ride london 100 July 18 and undertaking the yorkshiere sportif May 19,
+- Hockey local club player, climber, kayaker, ski racer
+- PC building and computer games
