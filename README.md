@@ -41,9 +41,9 @@ During my time at makers I took part in process workshops where I watched others
 - Ruby, JavaScript, Python
 - RSpec, Capybara, Jasmine, Cypress, unittest
 
-#### University of Bristol (SEP 14 to JULY 18)
+#### University of Bristol (SEP 14 to JULY 18) Enginerring Design
 
-**Enginerring Design** The UK's leading general engineering course, speciallizing in mechanical enginnering after the first year. Left to start my journey into software development but taking key skills I picked up with me and greatful for the introduction into code from mathmatical modeling and group robotics projects. Higher Education Lvl 4 certificate with Lvl 5 module credits.
+The UK's leading general engineering course, speciallizing in mechanical enginnering after the first year. Left to start my journey into software development but taking key skills I picked up with me and greatful for the introduction into code from mathmatical modeling and group robotics projects. Higher Education Lvl 4 certificate with Lvl 5 module credits.
 
 ### Charterhouse School (SEP 09 to JUNE 14)
 
