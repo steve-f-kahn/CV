@@ -36,10 +36,6 @@ During my time at makers I took part in process workshops where I watched others
 
 #### Makers Academy (FEB 19 to APR 19)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, JavaScript, Python
