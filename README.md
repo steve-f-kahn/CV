@@ -48,6 +48,7 @@ During my time at makers I took part in process workshops where I watched others
 ### Charterhouse School (SEP 09 to JUNE 14)
 
  **Pre-U (Equivalent A-Lvl)** 3 D2s (A* in Maths, Physics, Ecconomics and a D3 (A) in Chemistry
+ 
  **GCSE** 11 GCSE's (6A<sup>*</sup>'s, 2A's , 3 B's)
 
 #### Other qualifications
