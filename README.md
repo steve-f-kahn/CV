@@ -54,6 +54,6 @@ During my time at makers I took part in process workshops where I watched others
 NPQL Lifegaurd lv 2, UKCC lv 1 Kayaking, REC 2 Day First-Aid 
 
 ## Intrests 
-- Cyclist, completing the ride london 100 July 18 and undertaking the yorkshiere sportif May 19,
+- Cyclist, completing the ride london 100 July 18 and undertaking the yorkshiere sportif in May,
 - Hockey local club player, climber, kayaker, ski racer
 - PC building and computer games
