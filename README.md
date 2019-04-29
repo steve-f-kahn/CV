@@ -36,7 +36,7 @@ During my time at makers I took part in process workshops where I watched others
 
 #### Makers Academy (FEB 19 to APR 19)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD
 - Agile/XP
 - Ruby, JavaScript, Python
 - RSpec, Capybara, Jasmine, Cypress, unittest
