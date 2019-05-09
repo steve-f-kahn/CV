@@ -16,7 +16,7 @@ I love solving problems.
 
 #### Communication
 
-I'm a prize winning public speaker and have regularly presented. At makers I paired daily, led stand ups and retros in my group projects. At Renishaw I presented my work to fellow engineers at design meetings and results of projects to seniors. At university I lead presentations on group design projects to peers and professors. At school as head of Army as part of the combined cadet force I regally taught a group of 20+ boys. I also won the public recitation competition.
+At Makers I pair programmed daily, led stand ups and retros in my group projects. At Renishaw I presented my work to fellow engineers at design meetings and results of projects to seniors. At university I lead presentations on group design projects to peers and professors. At school as head of Army as part of the combined cadet force I regally taught a group of 20+ boys. I also won the public speaking competition.
 
 ### Learn Quickly
 
