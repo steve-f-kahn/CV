@@ -10,9 +10,9 @@ A communicative and enthusiastic full stack software developer with a year of pr
 |[Thermostat](https://github.com/steve-f-kahn/thermostat)| A single page app that adjusts temperature. It interacts with API's to get temperature and store previous setting.  | Javascript, JQueery, Jasmine, Ruby, Sinatra, Rspec, SQL |
 |[Coonect 4](https://github.com/steve-f-kahn/deep_red_yellow_connect4)| A machine learning connect 4 game built in 2 weeks for my Makers final project. We made extensive use of documentation to learn lots of new content as noone in the team had any experience of machine learning, although lots of enthusiam to learn it. I built the game from scratch using TDD. I solved problems such as making the game run as fast as possible by writing an algorithim checking who won by looking at winning combinations that only included the last move. Presented the project at demo day, [presentation](https://www.facebook.com/MakersAcademy/videos/1034352356758922/?t=1828)|Python, Pytest, Tensorflow, Keras, OpenAI Gym |
 ## Skills
-### Problem Solve
+### Problem Solving
 
-I love solving problems. 
+I love solving problems. From [code wars](https://www.codewars.com/users/steve-f-kahn) to the projects I worked on everyday at makers and the side projects I continue to work on. A challenging problem I recently solved was how to write a fast algorithim to check if you had won in connect 4. By only checking if the last move had made a winning combination of moves with your list of moves the computer was able to play the game quickly. It could then learn to play the game in a reasonable time frame to be demonstrated at demo day.
 
 #### Communication
 
