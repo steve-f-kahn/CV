@@ -1,6 +1,6 @@
 # Steve Kahn
 
-A communicative and enthusiastic full stack software developer with a year of professional engineering experience. A [makers](https://makers.tech/) graduate looking for an oppurtunity to join a fast paced software team making extensive use of exciting tech to solve challenging problems.
+A communicative and enthusiastic full stack software developer with a year of professional engineering experience. A [makers](https://makers.tech/) graduate looking for an oppurtunity to join a fast paced software team making extensive use of exciting tech to solve challenging problems that I can learn extensively with.
 
 ## Projects
 | Project            | Overview                                                          | Tech Stack                  |
